@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fix heatmaps width-height order bug (#7184)
