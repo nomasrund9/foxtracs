@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
