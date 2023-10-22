@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
