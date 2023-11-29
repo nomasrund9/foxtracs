@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
