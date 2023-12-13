@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
