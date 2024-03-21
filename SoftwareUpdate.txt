@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add docs guide terminal images (#8819)
